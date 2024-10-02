@@ -1,0 +1,54 @@
+$primary-color: #118350;
+$secondary-color: #c800a6;
+$background: #000000;
+$text-color: #ffffff;
+
+* {
+    color: $text-color;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: $background;
+    color: $text-color;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+}
+
+header,
+nav,
+ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+header {
+    padding: 2rem;
+    justify-content: space-around;
+    width: 100%;
+}
+nav > ul > li {
+    margin: 2rem;
+}
+
+#footer {
+    background-color: $primary-color;
+    padding: 3rem;
+}
+
+#footer-redir {
+    justify-content: space-around;
+}
+
+.major-btn {
+    background-color: $primary-color;
+    color: $text-color;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 2rem;
+}
