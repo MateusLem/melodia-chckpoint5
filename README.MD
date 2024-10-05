@@ -33,3 +33,10 @@ Este repositório contém o código-fonte de um site chamado **Melodia**. O site
 - **SASS**: Pré-processador CSS usado para facilitar a manutenção e reutilização de estilos, como variáveis e mixins.
 
 - **Bootstrap 5**: Framework de front-end que facilita a criação de layouts responsivos, com componentes prontos para uso, como navegação, botões e flexbox.
+
+##Colaboradores
+
+**David Gabriel Gomes Fernandes** - 556020
+**Mateus Leme** - 557803
+**Denise Senise** - 
+**Stephani Borzoi** -
