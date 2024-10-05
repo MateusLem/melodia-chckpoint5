@@ -26,7 +26,10 @@ ul {
     flex-direction: row;
     list-style: none;
 }
-
+a,li{
+    text-decoration: none;
+    color: white;
+}
 header {
     padding: 2rem;
     justify-content: space-around;
