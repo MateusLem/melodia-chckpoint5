@@ -37,6 +37,9 @@ Este repositório contém o código-fonte de um site chamado **Melodia**. O site
 ##Colaboradores
 
 **David Gabriel Gomes Fernandes** - 556020
+
 **Mateus Leme** - 557803
+
 **Denise Senise** - 
-**Stephani Borzoi** -
+
+**Stephani Borzi Marques** -
