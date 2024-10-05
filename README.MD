@@ -2,6 +2,10 @@
 
 Este repositório contém o código-fonte de um site chamado **Melodia**. O site oferece uma experiência musical otimizada com funcionalidades avançadas como modo offline, playlists inteligentes e recomendações personalizadas. Ele foi desenvolvido utilizando tecnologias modernas como HTML, CSS, SASS e Bootstrap, garantindo um design responsivo e de fácil navegação.
 
+## Vídeo de Apresentação
+
+[Clique Aqui](https://youtu.be/VAGRxlptrSU)
+
 ## Funcionalidades
 
 - **Modo Offline**: Usuários podem acessar suas músicas e playlists favoritas mesmo sem conexão com a internet, proporcionando uma experiência contínua em qualquer situação.
