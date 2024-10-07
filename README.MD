@@ -34,7 +34,7 @@ Este repositório contém o código-fonte de um site chamado **Melodia**. O site
 
 - **Bootstrap 5**: Framework de front-end que facilita a criação de layouts responsivos, com componentes prontos para uso, como navegação, botões e flexbox.
 
-##Colaboradores
+## Colaboradores
 
 **David Gabriel Gomes Fernandes** - 556020
 
